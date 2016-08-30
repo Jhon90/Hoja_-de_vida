@@ -11,14 +11,14 @@ and open the template in the editor.
 body{
     font-size: 100%;
     text-align: center;
-    background-color: #99ffff;
+    background-color: #A9D0F5;
 }
 p{
     font-size: 150%;
     text-align: justify;
     border-style: solid;
-    border-color: #ccffff;
-    background-color: #ccffff;
+    border-color: #A9D0F5;
+    background-color: #A9D0F5;
     margin: 0;
     
    
@@ -38,7 +38,7 @@ h5{
     padding: 50px 50px 30px 30px;
     width: 600px;
     height: 100px;
-    background-color: #ccffff;
+    background-color: ##A9D0F5;
 }
 
 
@@ -49,10 +49,10 @@ h5{
 h1{
     text-align: center;
     font-size: 150%;
-    background-color: #ccffff; 
+    background-color: #A9D0F5; 
     border-style: solid;
     border-color: red;
-    border-color: #ccffff;
+    border-color: #A9D0F5;
         
 }
 
